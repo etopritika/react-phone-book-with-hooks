@@ -1,0 +1,4 @@
+.filter__container label {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,15 @@
+.submit__form{
+    display: flex;
+    flex-direction: column;
+}
+
+.submit__form label {
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.submit__form button {
+    max-width: 150px;
+    padding: 5px 0;
+}
